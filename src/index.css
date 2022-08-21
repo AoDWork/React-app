@@ -1,6 +1,6 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
-    margin: 20px;
+    margin: 40px;
   }
   
   ol, ul {
@@ -12,7 +12,11 @@ body {
     content: "";
     display: table;
   }
-  
+  #title{
+    font-weight: bold;
+    padding-left: 20px;
+  }
+
   .status {
     margin-bottom: 10px;
   }
