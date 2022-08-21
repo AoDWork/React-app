@@ -15,6 +15,7 @@ body {
   #title{
     font-weight: bold;
     padding-left: 20px;
+    color: rgb(93, 8, 230);
   }
 
   .status {
